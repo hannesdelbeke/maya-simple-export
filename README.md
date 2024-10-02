@@ -1,4 +1,4 @@
-# Maya Python plugin template
+# Maya Simple exporter
 
 A basic exporter plugin for Autodesk Maya (based on code from Tibo Callewaert)
 
