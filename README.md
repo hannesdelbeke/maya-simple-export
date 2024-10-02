@@ -32,3 +32,4 @@ Info:
  I made this for my own use and published it online with the idea of helping others.
  If you want to contact me for anything please use my personal email found at the top.
 ```
+based on https://www.artstation.com/marketplace/p/krRAl/maya-smartexport-python-script
