@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> I don't recommend this tool (but neither do I actively discourage it)  
+> I'm not sure why i ported this to a python plugin.  
+> I've never used this exporter myself, nor added any changes to the code.  
+> It's likely just to use as testcode for [plugget](https://github.com/plugget), since it has some UI and an installer.  
+
 # Maya Simple exporter
 
 A basic exporter plugin for Autodesk Maya (based on code from Tibo Callewaert)
